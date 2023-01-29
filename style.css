@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link{
+    background: rgb(83, 108, 25);
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+}
+
+.link:hover{
+    font-size: 20px;
+}
+.heading
+    {
+      width: 100%;
+      background: darkcyan
+    }
+
+    body
+    {
+      background-position: center;
+      background-size: cover;
+      background-image: 100%;
+      background-color: lightpink;
+    }
+
+    body
+       {
+        font-family:'Times New Roman', Times, serif
+    
+       }
